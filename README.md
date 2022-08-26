@@ -1,2 +1,2 @@
-# LW3-InitialCoinOffering-DApp
+# InitialCoinOffering-DApp
 initial coin offering dapp
